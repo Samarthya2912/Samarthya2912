@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an intern at Skillsopedia
-- 🌱 I’m currently learning Web Development.
+- 🔭 I’m currently studying.
+- 🌱 I’m currently lexploring MERN stack.
 - 👯 I’m looking to collaborate on webdev projects.
 - 📫 How to reach me: Email me @ samarthya55@gmail.com or here's my <a href="https://www.linkedin.com/in/samarthya-singh-17a261152/">LinkedIn</a>.
 - 😄 Pronouns: He/Him
