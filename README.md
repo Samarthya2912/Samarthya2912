@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for MERN stack based internships.
-- 👯 I’m looking to collaborate on webdev projects.
 - 📫 How to reach me: Email me @ samarthya55@gmail.com or here's my <a href="https://www.linkedin.com/in/samarthya-singh-17a261152/">LinkedIn</a>.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am funny.
