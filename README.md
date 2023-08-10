@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working @Sprinklr as a Product Engineering Intern.
 - 📫 How to reach me: Email me @samarthya1706@gmail.com or here's my <a href="https://www.linkedin.com/in/samarthya-singh-17a261152/">LinkedIn</a>.
 - ⚡ Fun fact: We are more creative in the shower.
 
